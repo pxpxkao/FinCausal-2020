@@ -14,6 +14,7 @@ This approach is ranked in the 1st place in the official run.
 
 ## Quick Start
 Simple demo for our training and testing procedures.
+Tested on Python 3.6.8 with packages listed on `requirements.txt`.
 ```shell
 bash run.sh
 ```
