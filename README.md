@@ -1,7 +1,7 @@
 # NTUNLPL at FinCausal 2020
 
 ## Introduction
-Source code of **NTUNLPL at FinCausal 2020, Task 2: Improving Causality DetectionUsing Viterbi Decoder**.
+Source code of **NTUNLPL at FinCausal 2020, Task 2: Improving Causality Detection Using Viterbi Decoder**.
 
 This approach is ranked in the 1st place in the official run.
 
