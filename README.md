@@ -1,8 +1,7 @@
-# FinCausal-2020
+# NTUNLPL at FinCausal 2020
 
 ## Introduction
-Source code for **FinCausal-2020 task2**.
-
+Source code of **NTUNLPL at FinCausal 2020, Task 2: Improving Causality DetectionUsing Viterbi Decoder**.
 This approach is ranked in the 1st place in the official run.
 
 #### Blind Test Result
@@ -15,8 +14,6 @@ This approach is ranked in the 1st place in the official run.
 
 ## Quick Start
 Simple demo for our training and testing procedures.
-
-Tested on Python 3.6.8 with packages listed on `requirements.txt`.
 ```shell
 bash run.sh
 ```
@@ -51,5 +48,20 @@ You have to have the full blind test data(and name it as `data/task2.csv`) to re
 ```shell
 bash reproduce.sh
 ```
+
 ### Reference
-example code from https://github.com/huggingface/transformers
+[Stanza toolkit](https://stanfordnlp.github.io/stanza/) 
+example code from [huggingface](https://github.com/huggingface/transformers)
+
+### How do I cite this work?
+```
+@inproceedings{Kao2020ntunlpl, 
+title={NTUNLPL at FinCausal 2020, Task 2: Improving Causality Detection Using Viterbi Decoder}, 
+    author = {Kao, Pei-Wei and Chen, Chung-Chi and Huang, Hen-Hsen and Chen, Hsin-Hsi}, 
+    booktitle ={The 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation (FNP-FNS 2020)},
+    year = {2020} 
+}
+```
+
+###### tags: `NLP Lab`
+
