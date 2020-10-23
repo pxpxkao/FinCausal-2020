@@ -63,5 +63,3 @@ title={NTUNLPL at FinCausal 2020, Task 2: Improving Causality Detection Using Vi
 }
 ```
 
-###### tags: `NLP Lab`
-
