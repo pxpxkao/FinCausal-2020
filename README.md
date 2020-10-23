@@ -2,6 +2,7 @@
 
 ## Introduction
 Source code of **NTUNLPL at FinCausal 2020, Task 2: Improving Causality DetectionUsing Viterbi Decoder**.
+
 This approach is ranked in the 1st place in the official run.
 
 #### Blind Test Result
@@ -50,8 +51,8 @@ bash reproduce.sh
 ```
 
 ### Reference
-[Stanza toolkit](https://stanfordnlp.github.io/stanza/) 
-example code from [huggingface](https://github.com/huggingface/transformers)
+1. [Stanza toolkit](https://stanfordnlp.github.io/stanza/) 
+2. example code from [huggingface](https://github.com/huggingface/transformers)
 
 ### How do I cite this work?
 ```
