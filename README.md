@@ -51,8 +51,9 @@ bash reproduce.sh
 ```
 
 ### Reference
-1. [Stanza toolkit](https://stanfordnlp.github.io/stanza/) 
-2. example code from [huggingface](https://github.com/huggingface/transformers)
+1. [FinCausal 2020 Workshop](http://wp.lancs.ac.uk/cfie/fincausal2020/) 
+2. [Stanza toolkit](https://stanfordnlp.github.io/stanza/) 
+3. example code from [huggingface](https://github.com/huggingface/transformers)
 
 ### How do I cite this work?
 ```
