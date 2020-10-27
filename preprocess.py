@@ -31,6 +31,7 @@ def write_file(filename, data, mode):
                 f.write('\n')
     return filename
 
+# Refer to https://github.com/yseop/YseopLab/blob/develop/FNP_2020_FinCausal/baseline/task2/utils.py
 def make_causal_tag(dict, text):
     line, cause, effect = dict['sentence'], dict['cause'], dict['effect']
     d = defaultdict(list)
