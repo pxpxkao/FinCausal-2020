@@ -1,7 +1,7 @@
 # NTUNLPL at FinCausal 2020
 
 ## Introduction
-Source code of **NTUNLPL at FinCausal 2020, Task 2: Improving Causality Detection Using Viterbi Decoder**.
+Source code of [**NTUNLPL at FinCausal 2020, Task 2:Improving Causality Detection Using Viterbi Decoder**](https://www.aclweb.org/anthology/2020.fnp-1.11/)
 
 This approach is ranked in the 1st place in the official run.
 
@@ -56,9 +56,10 @@ bash reproduce.sh
 3. example code from [huggingface](https://github.com/huggingface/transformers)
 
 ### How do I cite this work?
+
 ```
 @inproceedings{Kao2020ntunlpl, 
-title={NTUNLPL at FinCausal 2020, Task 2: Improving Causality Detection Using Viterbi Decoder}, 
+title={NTUNLPL at FinCausal 2020, Task 2:Improving Causality Detection Using Viterbi Decoder}, 
     author = {Kao, Pei-Wei and Chen, Chung-Chi and Huang, Hen-Hsen and Chen, Hsin-Hsi}, 
     booktitle ={The 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation (FNP-FNS 2020)},
     year = {2020} 
